@@ -15,21 +15,11 @@ To run, you can simply go into the dist folder, then click and download the exec
 ### Preview
 ***
 
-**Bar Chart**:
+**Start Application**:
 
-![Bar Chart Image](https://github.com/AhadAli01/WeatherDashboard/blob/main/images/standardBarChart.png)
-
-
-**Snowfall Chart**:
-
-![Snowfall Chart Image](https://github.com/AhadAli01/WeatherDashboard/blob/main/images/standardSnowfall.png)
+![Start Application Image](https://github.com/AhadAli01/Bank-Account-Management/blob/main/images/StartApplication.png)
 
 
-**Scatter Plot (Max. Temp. only)**:
+**Post Transaction**:
 
-![Scatter Chart Image](https://github.com/AhadAli01/WeatherDashboard/blob/main/images/ScatterPlotMaxTemp.png)
-
-
-**Bar Chart (2000 - 2010 only)**:
-
-![2000's Bar Chart Image](https://github.com/AhadAli01/WeatherDashboard/blob/main/images/2000sBarChart.png)
+![Post Transaction Image](https://github.com/AhadAli01/Bank-Account-Management/blob/main/images/PostTransaction.png)
