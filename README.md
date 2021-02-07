@@ -6,7 +6,7 @@ A mock TD Bank ATM display where user can register for an account then either de
 
 ### Key Learnings
 ***
-asdf
+This project helped to gain experience with designing and developing a simple software project. Some practical concepts explored include object-oriented design and development, creating a simple CRUD application and utilizing the Java Swing GUI toolkit.
 
 ### Usage
 ***
